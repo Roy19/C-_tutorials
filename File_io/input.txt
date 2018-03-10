@@ -1,0 +1,10 @@
+Hello world.
+
+This is a dummy test file.
+
+Just for demonstration of File I/O in C++.
+
+Appending a newline
+Another line
+Appending a newline.
+Another line.
