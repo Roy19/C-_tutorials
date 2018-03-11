@@ -1,4 +1,5 @@
 # C++_tutorials
-My Learning curve through C++ 11 Standard.
+My Learning curve through C++ Language.
+
 Course on **C++ For Programmers** on **Udacity**.
 
