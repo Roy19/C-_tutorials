@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\aritra sur roy\desktop\c++_tutorial\classes_example\classes_example\main.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+  student.cpp
+  Generating Code...
+  Classes_example.vcxproj -> C:\Users\Aritra Sur Roy\Desktop\C++_tutorial\Classes_example\Debug\Classes_example.exe
